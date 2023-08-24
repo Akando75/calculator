@@ -1,0 +1,54 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+h1{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.card{
+    margin: 0 auto;
+    max-width: 350px;
+    text-align: center;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 8px black;
+    font-size: 0px;
+    
+    
+   
+}
+.cal-head #result{
+    width: 343px;
+    height: 100px;
+    font-weight: bold;
+    text-align: right;
+    padding: 0px;
+    letter-spacing: 4px;
+    font-size: 30px;
+}
+.card:hover{
+    box-shadow: 0px 4px 5px green;
+}
+
+
+.btn{
+    width: 87px;
+    height: 70px;
+   background-color: black;
+   color: white;
+   font-weight: bold;
+   font-size: 16px;
+}
+.btn:hover{
+    background-color: hotpink;
+}
+.btn-style{
+    background-color: cornflowerblue;
+}
+#btn1{
+    background-color: coral;
+}
+#btn1:hover{
+    background-color: hotpink;
+}
